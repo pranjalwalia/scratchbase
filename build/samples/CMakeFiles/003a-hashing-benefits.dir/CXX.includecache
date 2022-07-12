@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Desktop/code/scratchbase/samples/003a-hashing-benefits/main.cpp
+iostream
+-
+chrono
+-
+string
+-
+unordered_map
+-
+

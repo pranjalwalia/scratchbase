@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/scratchbase-tests.dir/dbmanagement-tests.cpp.o CMakeFiles/scratchbase-tests.dir/hashing-tests.cpp.o CMakeFiles/scratchbase-tests.dir/keyvalue-tests.cpp.o CMakeFiles/scratchbase-tests.dir/performance-tests.cpp.o  -o scratchbase-tests  ../scratchbase/libscratchbase.a -lstdc++fs 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/scratchbase-cli.dir/main.cpp.o  -o scratchbase-cli  ../scratchbase/libscratchbase.a -lstdc++fs 

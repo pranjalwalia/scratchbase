@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscratchbase.a  CMakeFiles/scratchbase.dir/src/database.cpp.o CMakeFiles/scratchbase.dir/src/filekeyvaluestore.cpp.o CMakeFiles/scratchbase.dir/src/scratchbase.cpp.o CMakeFiles/scratchbase.dir/src/highwayhash.cpp.o CMakeFiles/scratchbase.dir/src/memorykeyvaluestore.cpp.o
+/usr/bin/ranlib libscratchbase.a

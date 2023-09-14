@@ -1,0 +1,9 @@
+Redis
+cmdstat_get:calls=1001568,usec=221845,usec_per_call=0.22
+cmdstat_set:calls=831104,usec=498235,usec_per_call=0.60
+
+Benchmarking InMemory
+GET
+calls=1001568,usec=165555.97014925373,usec_per_call=0.164
+SET
+calls=831104,usec=701739,usec_per_call=0.845
